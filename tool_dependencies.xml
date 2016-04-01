@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <tool_dependency>
     <package name="gatk_sanbi_uwc" version="3.5">
-        <install version="3.5">
+        <install version="1.0">
             <actions_group>
                 <actions>
                     <action type="download_by_url">http://intranet.sanbi.ac.za/GenomeAnalysisTK-3.5.tar.bz2</action>
